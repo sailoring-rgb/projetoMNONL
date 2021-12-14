@@ -8,5 +8,5 @@ Classificação: .../20
 
 - Ana Murta (@AnaMurta10)
 - Ana Henriques (@AnaHenriques01)
-- Leonardo Freitas
+- Leonardo Freitas (@Leonardo1924)
 - Miguel Martins
