@@ -2,7 +2,7 @@
 
 Mini-projeto de Métodos Numéricos e Otimização Não Linear 21/22
 
-Classificação: .../20
+Classificação: 18.3/20
 
 # Autores
 
