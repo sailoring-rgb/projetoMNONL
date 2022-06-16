@@ -6,7 +6,7 @@ Classificação: 18.3/20
 
 # Autores
 
-- Ana Murta (@AnaMurta10)
-- Ana Henriques (@AnaHenriques01)
-- Leonardo Freitas (@Leonardo1924)
+- Ana Murta
+- Ana Henriques
+- Leonardo Freitas
 - Miguel Martins
