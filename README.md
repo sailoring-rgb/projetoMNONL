@@ -1,12 +1,11 @@
 # MNONL
 
-Mini-projeto de Métodos Numéricos e Otimização Não Linear 21/22
+Project accomplished in the scope of <b><i>Numerical Methods and Nonlinear Optimization 21/22</i></b>
 
-Classificação: 18.3/20
+Final Classification: 18.3/20
 
-# Autores
+# Authors
 
-- Ana Murta
-- Ana Henriques
-- Leonardo Freitas
-- Miguel Martins
+- <a href="https://github.com/AnaMurta10">Ana Murta</a>
+- <a href="https://github.com/sailoring-rgb">Ana Henriques</a>
+- <a href="https://github.com/Leonardo1924">Leonardo Freitas</a>
